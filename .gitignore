@@ -1,0 +1,39 @@
+## Visual Studio / .NET build outputs
+[Bb]in/
+[Oo]bj/
+[LGs]og/
+[Lgs]ogs/
+
+## Visual Studio project / solution user settings
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+## User-specific files
+*.suo
+*.user
+*.userprefs
+*.dbmdl
+*.mdf
+*.ldf
+
+## Build results
+[Dd]ebug/
+[R3]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+## Package restoration artifacts
+*.nuget.props
+*.nuget.targets
+project.lock.json
+project.assets.json
+
+# Raw working images & graphics
+CheckK2LowLatency_Source.png
+*.jpeg
+*.jpg
+!app.ico
